@@ -7,10 +7,15 @@
     "start": "tsc && node dist/index.js",
     "build": "tsc"
   },
-  "keywords": ["typescript", "learning", "tutorial"],
+  "keywords": [
+    "typescript",
+    "learning",
+    "tutorial"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.0.0"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
