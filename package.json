@@ -1,0 +1,16 @@
+{
+  "name": "learn_typescript",
+  "version": "1.0.0",
+  "description": "A comprehensive TypeScript learning resource.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "build": "tsc"
+  },
+  "keywords": ["typescript", "learning", "tutorial"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

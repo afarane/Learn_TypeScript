@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "outDir": "dist",
+    "rootDir": ".",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": ["01_Basics/**/*.ts", "02_Intermediate/**/*.ts", "03_Advanced/**/*.ts", "04_Projects/**/*.ts"]
+}
